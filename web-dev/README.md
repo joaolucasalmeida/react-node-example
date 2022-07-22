@@ -1,12 +1,3 @@
-<h1>Job Quest Web</h1>
-
-## Documentação
-
-React: https://reactjs.org/docs/getting-started.html<br>
-Node.js: https://nodejs.org/en/docs/<br>
-Git: https://git-scm.com/doc <br>
-Guia básico de Git: https://rogerdudler.github.io/git-guide/ <br>
-
 ## Pré-requisitos
 
 Git: https://git-scm.com/ <br>
@@ -15,11 +6,10 @@ Node.js: https://nodejs.org/en/<br>
 ## Instalação
 
 ```
-git clone https://tools.ages.pucrs.br/job-quest/WEB
+git clone <repo url>
 cd WEB
-git checkout dev
-npm/yarn install
-npm/yarn start
+npm install
+npm start
 ```
 
 ## Storybook
@@ -29,7 +19,7 @@ Storybook é uma lib que permite visualizar isoladamente os componentes desenvol
 Para executar basta rodar o comando abaixo:
 
 ```
-npm/yarn storybook
+npm storybook
 ```
 
 ## Bibliotecas Auxiliares P/ Desenvolvimento
